@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CocktailDB</string>
+    <string name="drinks_activity">Drinks</string>
+    <string name="filters_activity">Filters</string>
+    <string name="filters">Filters</string>
+    <string name="ordinary_drink">Ordinary Drink</string>
+    <string name="back">Back</string>
+    <string name="apply">Apply</string>
+</resources>
